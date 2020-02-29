@@ -1,0 +1,2 @@
+rootProject.name='Predictor'
+include ':app'
